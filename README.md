@@ -17,6 +17,8 @@ digital agency with excellence services is a web site that helps in the buying a
 -
 -
 
+<p aligh="center"><img alt="Credo" src="https://thumbs.dreamstime.com/z/young-women-asian-coffeeshop-female-friends-enjoying-her-leisure-time-cafe-drinking-coffee-cappuccino-working-32378968.jpg"></p>
+
 ## techologies
 
 - HTML 
