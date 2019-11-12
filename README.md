@@ -11,11 +11,11 @@ digital agency with excellence services is a web site that helps in the buying a
 
 ## features 
 
--
--
--
--
--
+-  Home page 
+-  service page S
+-  Blog for communicating with customers or employees to share knowledge and expertise.
+- it is comprised of contacts thats going to serve our clients with numbers on whom to contact in case of emergency 
+- its comprised of the information you need to kmow about our site incase an individual wants to buy items 
 
 <p aligh="center"><img alt="Credo" src="https://thumbs.dreamstime.com/z/young-women-asian-coffeeshop-female-friends-enjoying-her-leisure-time-cafe-drinking-coffee-cappuccino-working-32378968.jpg"></p>
 
