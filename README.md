@@ -5,9 +5,9 @@ digital agency with excellence services is a web site that helps in the buying a
 
 - week 11:  finishing the front end 
 - week 12: starting the backend 
-- week 13: 
-- week 14 : 
-- week 15 :
+- week 13: optimization of back end 
+- week 14 : server testig 
+- week 15 : showing the teacher 
 
 ## features 
 
