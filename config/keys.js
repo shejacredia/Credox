@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI: 'mongodb+srv://credo:mother123@.mongodb.net/test?retryWrites=true'
+    mongoURI: 'mongodb+srv://Credo:mother123@credox-fi94r.mongodb.net/test?retryWrites=true'
 };
