@@ -2,3 +2,8 @@
             <h2 class="lead mb-3">Welcome <%= user.name %></h2>
             <a href="/users/logout" class="btn btn-danger">Logout</a>
             <a href="https://shejacredia.github.io/Credox/" class="btn btn-info">Forward</a>
+            <a href="/setting" class="btn btn-secondary" style="float: left;margin:2px">Settings</a>
+            <form action="/delete" method="post">
+                <input type="text" class="form-control" name="id" value="<%= user._id %>" hidden>
+                <button type="submit" class="btn btn-secondary" style="float: left;margin:2px"> Delete Account </button>
+            </form>
